@@ -70,6 +70,7 @@
  *  Any feedback is very welcome.
  *  http://www.math.keio.ac.jp/matumoto/emt.html
  *  email: matumoto@math.keio.ac.jp
+ *  This is a commit to test that travis CI is working properly, should never make it into a PR.
  */
 #define NPY_NO_DEPRECATED_API NPY_API_VERSION
 
